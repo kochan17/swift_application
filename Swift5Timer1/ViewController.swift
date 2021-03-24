@@ -47,7 +47,7 @@ class ViewController: UIViewController {
     
     @objc func timerUpdate(){
         
-        count = count + 1
+        count = count + 2
         
         if count > 4 {
             count = 0
